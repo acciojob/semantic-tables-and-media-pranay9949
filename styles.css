@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+ol li:nth-child(1)  {
+  border: 1px solid red;
+	margin-top:10px;
+}
+
+/* Style the second video element */
+ol li:nth-child(2)  {
+  border: 1px solid blue;
+	margin-top:10px;
+}
+
+/* Style the third audio element */
+ol li:nth-child(3)  {
+  border: 1px solid green;
+	
+	margin-top:10px;
+}
